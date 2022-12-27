@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @porcellotyler
 - 👀 I’m interested in improving my skills and learning new concepts of programming
-- 🌱 I’m currently learning how to make my projects dynamic and interactive with JavaScript as well as how to build single page applications with React
-- 🤝 I’m looking to collaborate on open-source projects that I can practice and improve my skills with
+- 🌱 I’m currently improving my understanding of Data Structures & Algorithms using JavaScript
+- 🤝 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: [I'm on LinkedIn](https://www.linkedin.com/in/tyler-porcello/) 
 
 <!---
