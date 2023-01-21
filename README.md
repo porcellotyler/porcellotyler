@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @porcellotyler
 - 👀 I’m interested in improving my skills and learning new concepts of programming
-- 🌱 I’m currently practicing using test-driven development
+- 🌱 I’m currently practicing building projects with React
 - 🤝 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: [I'm on LinkedIn](https://www.linkedin.com/in/tyler-porcello/) 
 
